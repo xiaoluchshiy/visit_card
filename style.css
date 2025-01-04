@@ -6,9 +6,10 @@ body {
 header {
     width: 100vw;
     height: 100vh;
-    background: url(header_bg.webp);
+    background: url(https://img.freepik.com/free-photo/person-front-computer-working-html_23-2150038835.jpg?t=st=1736020865~exp=1736024465~hmac=905510c05105bb0497fd41867974a6ebbd62db4543e00be92592befe25126186&w=1380);
     background-size: cover;
     display: flex;
+    color: white;
 }
 
 .header_left {
