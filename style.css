@@ -121,3 +121,7 @@ footer {
     color: white;
 }
 
+.section_item:hover {
+    transform: scale(1.05);
+    animation-duration: 1s;
+}
