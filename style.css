@@ -12,6 +12,10 @@ header {
     color: white;
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 .header_left {
     width: 65%;
     height: 100%;
@@ -116,3 +120,4 @@ footer {
     justify-content: center;
     color: white;
 }
+
